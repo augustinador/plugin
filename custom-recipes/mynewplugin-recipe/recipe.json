@@ -82,7 +82,7 @@
         {
             "name": "parameter2",
             "type": "INT",
-            "defaultValue": 42
+            "defaultValue": 41
             /* Note that standard json parsing will return it as a double in Python (instead of an int), so you need to write
                int(get_recipe_config()['parameter2'])
             */
